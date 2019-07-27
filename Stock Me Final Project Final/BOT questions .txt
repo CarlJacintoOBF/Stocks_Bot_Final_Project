@@ -1,0 +1,22 @@
+﻿Imagine you are addressing the next class about to take the same course you did. 
+
+
+What would you like to share? 
+
+
+In addressing the next class about to take the same course, we would talk about how useful and how applicable coding is. We would share our experience in web scraping the list of ateneo professors from the ateneo website and how Regex helped us easily clean dirty data. I got so excited in those moments since I faced problems with them before learning about Regex and web scraping and had to do things the hard way of manually listing. I want to tell them how amazing these programs are and what they can do. Another thing I would want them to know would be that coding gets more fun the more you learn. Learning all the syntaxes and functions in the beginning was very difficult and challenging. However, once we got to know these functions and almost memorize them, the exercises seemed so fun. It was like a jigsaw puzzle where you form something out of the code jigsaw pieces. I’d tell them that if they study hard, the rest will be fun. I would share my experience with the Coffee Python exercise where I had lots of fun even exploring ways to add color and font styles to the code, not by requirement but because I was having fun with the coding.
+
+
+How did each you feel about assuming your project roles?
+
+
+I honestly feel we weren't confined to our specific tasks. Meaning everyone did a little of everything. It made some collaboration and organization difficult but it did help everyone understand what we were doing each step of the project. I think we could have done better in assuming the specific roles as some jobs are better done by 1 person versus many but overall all roles were fulfilled and the project was completed well.
+
+
+I think that at the start when everyone was confined to roles, it felt a bit restricting. In the sense that I didn’t know if I should help at that point because though my role is more on the latter part, the usual groupworks I participate in usually have all members working in every step of the way. It was a bit confusing. Another problem was that we kind of lost our roles in the middle of the process wherein everyone was coding. However, I could also see how we tried to go back to our roles. It worked out well regardless since everyone helped each other and I think we got to produce quality output.
+
+
+How can the course be improved?
+
+
+This course can be improved by perhaps adding lessons in allowing multiple users which is a problem we faced when making our bot. I think that this course is already quite good since we learned plenty of things and got to explore even beyond our class lessons. We’d like to recommend the keeping of SQL and Mongo as they are very useful in the data handling aspect of the course. It would also be beneficial to continue Regex because it is very helpful in data cleaning which we think we will encounter going forward in our career. The APIs and other applications may be kept optional as it is right now so that we can finish the course in intersession while giving through-to-in-depth discussions on the main topics. The course should be kept in intersession though so that students can focus on the subject. Other recommendations would include a brief lecture on the front end, along with the multi-user aspect of the applications.
